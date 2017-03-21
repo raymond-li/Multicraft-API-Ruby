@@ -32,4 +32,6 @@ puts mc.listUsers()
 ```
 
 ## Notes
-This project is incomplete and could use some minor changes.
+This project is functional but a WIP and could use some minor changes.
+
+Also note that the Multicraft API is disabled by default, so make sure the setting is enabled, a user has an API key, and any network configuration (port forwarding and the like) is done to expose the API endpoint.
